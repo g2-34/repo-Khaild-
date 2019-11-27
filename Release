@@ -1,0 +1,7 @@
+Origin: repo Khaild  
+Label:repo Khaild 
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: ادوات مكركه
